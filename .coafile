@@ -1,0 +1,8 @@
+ 
+[Default]
+files = test.py
+max_line_length = 80
+use_spaces = True
+bears = PEP8Bear, PycodestyleBear
+
+
